@@ -1,0 +1,6 @@
+1. firstly download conda in your window conda pakage
+ # for windows
+	wget "https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe" -outfile "./Downloads/Anaconda3-2024.10-1-Windows-x86_64.exe"
+ # for linux 
+	curl -O https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+2. run command :conda create --name mon_environnement python jupyter
